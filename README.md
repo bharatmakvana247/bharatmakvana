@@ -26,7 +26,7 @@
 ### :woman_technologist: About Me :
   I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ahmedabad - India.
   
-- :telescope: I’m working as a Software developing backend for building web applications.
+- :telescope: I’m Bharat Makvana and i have more than 2 years of experience for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
